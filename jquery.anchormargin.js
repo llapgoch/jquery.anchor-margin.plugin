@@ -38,7 +38,7 @@
 		}
 	}
 
-    $.fn.anchormargin = function(settings){
+	$.fn.anchormargin = function(settings){
 		return this.each(function(){
 			var element = $(this);
       
